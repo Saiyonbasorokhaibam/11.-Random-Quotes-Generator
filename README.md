@@ -33,13 +33,6 @@ A professional dark UI with glowing purple-blue accents:
 
 ---
 
-## 📂 Folder Structure
-random-quote-generator/
-│
-├── index.html
-├── style.css
-└── script.js
-
 
 ---
 
@@ -56,6 +49,7 @@ random-quote-generator/
 🧑‍💻 Author
 Saiyonba Sorokhaibam
 Made with ❤️ and JavaScript.
+
 
 
 
