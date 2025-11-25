@@ -6,7 +6,7 @@ Every time you click the button, a new inspirational quote appears — with a **
 ---
 🌙 Preview
 A professional dark UI with glowing purple-blue accents:
-![dark-themed random quote generator](https://raw.githubusercontent.com/haokipstevin-rgb/9.-Random-Quote-Generator/refs/heads/main/preview.png)
+![dark-themed random quote generator](https://github.com/Saiyonbasorokhaibam/11.-Random-Quotes-Generator/blob/main/preview.png?raw=true)
 
 ---
 
@@ -64,4 +64,5 @@ Store custom quotes with localStorage
 🧑‍💻 Author
 Your Name
 Made with ❤️ and JavaScript.
+
 
