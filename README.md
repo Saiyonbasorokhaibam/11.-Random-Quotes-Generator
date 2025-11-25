@@ -52,17 +52,10 @@ random-quote-generator/
 
 
 
-💡 Future Enhancements
-Add author names below quotes
-
-Add Copy Quote button
-
-Add Share to Twitter feature
-
-Store custom quotes with localStorage
 
 🧑‍💻 Author
-Your Name
+Saiyonba Sorokhaibam
 Made with ❤️ and JavaScript.
+
 
 
